@@ -1,0 +1,6 @@
+div {
+	text-align: center;
+	overflow: dotted;
+	border: 2px solid red;
+	width: 400px;
+}
